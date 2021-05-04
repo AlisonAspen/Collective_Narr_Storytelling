@@ -1,0 +1,14 @@
+.bigImg {
+  width: 800px;
+}
+.holder {
+  display: flex;
+  flex-direction: column; 
+}
+.titleHolder {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  padding: 25px;
+  margin: 25px;
+}
