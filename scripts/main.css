@@ -1,9 +1,12 @@
+body {
+  background-color: grey;
+}
 .bigImg {
   width: 800px;
 }
 .holder {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
 }
 .titleHolder {
   text-align: center;
