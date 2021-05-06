@@ -1,17 +1,14 @@
-body {
-  background-color: grey;
-}
-.bigImg {
-  width: 800px;
-}
-.holder {
+.mainHolder {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-.titleHolder {
-  text-align: center;
-  background-color: blue;
-  color: white;
-  padding: 25px;
-  margin: 25px;
+
+
+.textHolder {
+  width: 75%;
+}
+.contentHolder {
+  width: 75%;
+  float: left;
 }
